@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @delicious-cookie
-- 👀 I’m interested in ... every thing
-- 🌱 I’m currently learning ... every thing
-- 💞️ I’m looking to collaborate on ... every good one
+- 👀 I’m interested in ... everything
+- 🌱 I’m currently learning ... everything
+- 💞️ I’m looking to collaborate on ... every goodone
 - 📫 How to reach me ... you'll never find me
 
 <!---
